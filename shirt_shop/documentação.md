@@ -1,27 +1,27 @@
-# Documentação do E-COMMERCE
+# DocumentaÃ§Ã£o do E-COMMERCE
 
 ## Shirt Shop
 
-> Nossa loja é especializada em venda de camisas e camisetas femininas e masculinas.
+> Nossa loja Ã© especializada em venda de camisas e camisetas femininas e masculinas.
 
-### Lógica do Marketing
+### LÃ³gica do Marketing
 
-> Nossos produtos são distribuidos de forma a deixar o cliente a fontade para navegar sobre nossas abas,
-conforme ele vai clicando nós produtos ele vai sendo redirecionado para outras páginas com mais disponibilidade
-de produtos, nossas abas são personalizadas para que o usuário se sinta realmente em um ambiente que entende de
+> Nossos produtos sÃ£o distribuidos de forma a deixar o cliente a fontade para navegar sobre nossas abas,
+conforme ele vai clicando nÃ³s produtos ele vai sendo redirecionado para outras pÃ¡ginas com mais disponibilidade
+de produtos, nossas abas sÃ£o personalizadas para que o usuÃ¡rio se sinta realmente em um ambiente que entende de
 moda.
 
 ### Confiabilidade
 
-> Nosso site tem uma aba com comentários de clientes que já compraram em nosso site.
-> O site também disponibiliza todos os dados da nossa loja física para que o cliente se sinta mais tranquilo ao 
+> Nosso site tem uma aba com comentÃ¡rios de clientes que jÃ¡ compraram em nosso site.
+> O site tambÃ©m disponibiliza todos os dados da nossa loja fÃ­sica para que o cliente se sinta mais tranquilo ao 
 realizar suas compras.
 
-### Segurança
+### SeguranÃ§a
 
-> Temos um dos melhores certificados de segurança do mercado o [ebite](https://www.ebit.com.br/)
+> Temos um dos melhores certificados de seguranÃ§a do mercado o [ebite](https://www.ebit.com.br/)
 e o [Site Blindado](https://www.siteblindado.com/). Com o ebit garantimos 
-que nossa loja virtual realmente existe, e com o Site Blindado evitamos qualquer tipo de invasão.
+que nossa loja virtual realmente existe, e com o Site Blindado evitamos qualquer tipo de invasÃ£o.
 
 ### Redes Sociais
 
@@ -34,8 +34,12 @@ que nossa loja virtual realmente existe, e com o Site Blindado evitamos qualquer
 ### Como encontrar nosso site
 
 > Para que os nossos clientes encontre o que a gente oferece quando eles procuram por produtos como os
-que nós oferecemos utilizamos o [adwords](https://adwords.google.com/home/).
+que nÃ³s oferecemos utilizamos o [adwords](https://adwords.google.com/home/).
 
 ### Forma de Pagamento
 
 > Todos as compras realizadas em nossa loja virtual e feita pelo [paypall](https://adwords.google.com/home/)
+
+### Link para o site
+
+> http://shirtshop.esy.es
